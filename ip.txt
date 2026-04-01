@@ -1,4 +1,3 @@
-ipv4.list.updated.at#Upd20260401_21:25:443#IPv4_Cloudflare
 104.16.1.166:443#US-ce8118:443#IPv4_Cloudflare
 104.16.105.166:443#US-0121b7:443#IPv4_Cloudflare
 104.16.147.229:443#US-f84bf5:443#IPv4_Cloudflare
@@ -142,7 +141,6 @@ ipv4.list.updated.at#Upd20260401_21:25:443#IPv4_Cloudflare
 198.41.209.134:443#US-a718f1:443#IPv4_Cloudflare
 198.41.209.167:443#US-c79714:443#IPv4_Cloudflare
 198.41.209.49:443#US-f2c969:443#IPv4_Cloudflare
-ipv6.list.updated.at#Upd20260401_21:25:443#IPv6_Cloudflare
 [2606:4700:0:fb0b:f406:36:6182:a18]:443#IPDBv6-35a035:443#IPv6_Cloudflare
 [2606:4700:0:fb0b:f406:36:93c2:54b0]:443#IPDBv6-447ec0:443#IPv6_Cloudflare
 [2606:4700:0:fb87:b018:1b71:364b:60a6]:443#IPDBv6-ae6687:443#IPv6_Cloudflare
