@@ -2,8 +2,8 @@ import requests
 
 # 配置源地址
 urls = {
-    "IPv4": "https://raw.gitmirror.com/joname1/BestCFip/refs/heads/main/ipv4.txt",
-    "IPv6": "https://raw.gitmirror.com/joname1/BestCFip/refs/heads/main/ipv6.txt"
+    "IPv4": "https://gh-proxy.org/https://raw.githubusercontent.com/joname1/BestCFip/refs/heads/main/ipv4.txt",
+    "IPv6": "https://gh-proxy.org/https://raw.githubusercontent.com/joname1/BestCFip/refs/heads/main/ipv6.txt"
 }
 
 # 预设端口（根据你的需求修改，这里假设为443）
